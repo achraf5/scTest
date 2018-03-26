@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="32598" started-at="2018-03-26T11:55:04Z" finished-at="2018-03-26T11:55:37Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="32598" started-at="2018-03-26T11:55:04Z" finished-at="2018-03-26T11:55:37Z">
+      <class name="test.sctest.AppTest">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:test.sctest.AppTest@67b6d4ae]" name="beforeMethod" is-config="true" duration-ms="4722" started-at="2018-03-26T12:55:05Z" finished-at="2018-03-26T12:55:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="Test_SC_Boutique()[pri:0, instance:test.sctest.AppTest@67b6d4ae]" name="Test_SC_Boutique" duration-ms="25552" started-at="2018-03-26T12:55:09Z" finished-at="2018-03-26T12:55:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_SC_Boutique -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:test.sctest.AppTest@67b6d4ae]" name="afterMethod" is-config="true" duration-ms="2311" started-at="2018-03-26T12:55:35Z" finished-at="2018-03-26T12:55:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- test.sctest.AppTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
