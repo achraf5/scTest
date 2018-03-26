@@ -29,7 +29,7 @@ public class AppTest{
 	ReadExcel url = new ReadExcel();
 	String nameFile = "Test_shortcut.xlsx";
 	String sheet = "Feuil1";
-	String path = "C:\\Users\\abousselhami\\workspace\\sctest\\src\\main\\resources\\Test_Shortcut.xlsx";
+	String path = "C:\\gitsc\\sctest\\src\\main\\resources\\Test_Shortcut.xlsx";
 	
 	SC_Boutique sc_boutique;
 	SC_ChaineTV sc_tv;
